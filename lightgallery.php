@@ -1,10 +1,10 @@
 <?php 
 /*
 Plugin Name: Light Gallery
-Plugin URI : http://tariqwebsolutions.com/lightgallery
+Plugin URI : http://plugins.tariqxpress.com/light-gallery
 Version: 1.1
 Author: Tariq
-Author URI: http://tariqwebsolutions.com
+Author URI: http://tariqxpress.com
 Description: Beautiful gallery plugin for WordPress. It is a light weight and powerful gallery plugin. 
 */
 defined( 'ABSPATH' ) or die( 'No script kiddies please!' );
